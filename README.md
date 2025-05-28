@@ -1,5 +1,6 @@
 
-# 📄 PDF Compressor GUI - Python Project
+# 📄 PDF Compressor GUI - Ridho Ismail N (2209466)
+# EE-404 KOMUNIKASI DATA
 
 Aplikasi desktop ringan berbasis Python untuk mengompres ukuran file PDF dengan antarmuka grafis yang user-friendly. Proyek ini menggunakan Tkinter dan Ghostscript sebagai backend.
 
