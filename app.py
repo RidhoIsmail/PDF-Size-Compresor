@@ -4,6 +4,7 @@ from io import BytesIO
 from PIL import Image, ImageTk
 import cairosvg
 import subprocess
+import os
 
 def ambil_logo_svg_dan_konversi(url_svg):
     try:
